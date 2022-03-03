@@ -25,18 +25,4 @@
 
 <p>Os arquivos originais podem ser acessados aqui: https://s3.amazonaws.com/video.udacity-data.com/topher/2018/September/5ba00ce4_chicago-bikeshare-pt/chicago-bikeshare-pt.zip - o dataset tinha mais colunas, e elas diferiam em formato em muitos casos. Alguns processos de data wrangling foram realizados para condensar esses arquivos nas seis colunas principais citadas acima, para simplificar a análise e a avaliação das habilidades em Python. 
 </p>
-<h2> As perguntas:</h2>
-<ul>
-  <li>Tarefa 1: Mostre as 20 primeiras amostras (linhas) da base de dados</li>
-  <li>Tarefa 2: Mostre o gênero (coluna) das 20 primeiras amostras</li>
-  <li>Tarefa 3: Cria uma função para pegar colunas como lista</li>
-  <li>Tarefa 4: Conte quantas pessoas de cada gênero</li>
-  <li>Tarefa 5: Crie uma função para contar os gêneros</li>
-  <li>Tarefa 6: Mostre o gênero mais popular</li>
-  <li>Tarefa 7: Mostre um gráfico usando os dados anteriores</li>
-  <li>Tarefa 8: Responda o motivo do número de homens e mulheres não bater com a quantidade de amostras</li>
-  <li>Tarefa 9: Encontre o valor mínimo, máximo, média e mediana da duração de viagens</li>
-  <li>Tarefa 10: Mostre todas as estações da base de dados</li>
-  <li>Tarefa 11: Confira se documentou todas suas funções</li>
-  <li>Tarefa 12: Crie uma função que conte a ocorrência de qualquer coluna (opcional)</li>
-</ul>
+
